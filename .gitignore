@@ -1,0 +1,8 @@
+/build
+/build_bkp
+/build_private
+/build_rinkeby
+/build_main
+/node_modules
+.env
+truffle.js
